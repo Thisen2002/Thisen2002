@@ -12,16 +12,6 @@ Passionate about software engineering, problem-solving, creative design, and exp
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thisen2002&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thisen2002&layout=compact&theme=dracula&card_width=320&hide_border=false" height="150" />
-</div>
-
----
-
-## 🔧 Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
   <img width="10" />
@@ -46,7 +36,7 @@ Passionate about software engineering, problem-solving, creative design, and exp
 
 ---
 
-## 📫 Connect With Me
+
 
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
@@ -58,7 +48,7 @@ Passionate about software engineering, problem-solving, creative design, and exp
 
 ---
 
-## 🐍 GitHub Contribution Snake
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
