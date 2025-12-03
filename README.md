@@ -11,13 +11,16 @@ Passionate about software engineering, problem-solving, creative design, and exp
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-## ⭐ GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thisen2002&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thisen2002&layout=compact&theme=dracula&card_width=320&hide_border=false" height="150" />
 </div>
 
+---
+
+## 🔧 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
@@ -41,8 +44,9 @@ Passionate about software engineering, problem-solving, creative design, and exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" />
 </div>
 
+---
 
-
+## 📫 Connect With Me
 
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
@@ -52,8 +56,9 @@ Passionate about software engineering, problem-solving, creative design, and exp
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" /></a>
 </div>
 
+---
 
-
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
